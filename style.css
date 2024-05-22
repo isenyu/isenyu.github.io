@@ -33,7 +33,11 @@ body {
 #layout-content {
 	padding-top: 0.0em;
 	padding-left: 1.0em;
+<<<<<<< HEAD
 	padding-right: 20.0em;
+=======
+	padding-right: 10.0em;
+>>>>>>> b14b38baab3a60a88cecb0c01774562aa6404598
     border: none;
     background: white;
     text-align: left;
