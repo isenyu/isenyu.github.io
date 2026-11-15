@@ -1,2 +1,14 @@
+# Local image-generation prompts
+/assets/*prompt*.json
 
-publication.html
+# OS, editor, and temporary files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+*.tmp
+*.log
+/tmp/
+/temp/
+/archive/
